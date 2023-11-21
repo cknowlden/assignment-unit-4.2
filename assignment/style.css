@@ -1,0 +1,52 @@
+header {
+    text-align: center;
+    background-color: white;
+    color: hotpink;
+}
+
+h2 {
+    text-align: center;
+    background-color: orange;
+    color: black;
+    font-weight: bold;
+    font-style: oblique; 
+}
+
+h3 {
+    text-align: right;
+    background-color: darkmagenta;
+    color: yellow;
+    font-weight: bold;
+    font-style: oblique; 
+}
+
+#table {
+    display: inline-block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-table; 
+    /*display: inline-block; */
+    /*padding-left: 50px; */
+    align-items: center;
+    /*justify-content: center; */
+    background-color: white;
+    border-style: double;
+    /*border-inline-color: red;*/
+    border-color: brown;
+    border-width: 10px;
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info {
+    display: center;
+    /*position: relative;*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
